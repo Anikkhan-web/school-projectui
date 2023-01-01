@@ -1,0 +1,30 @@
+/* hero section start  */
+li a:hover {
+    color: green;
+}
+
+.hero-bg {
+    background-color: #F1FbF3;
+
+}
+
+.hero-text {
+    width: 50%;
+
+}
+
+.font-size-h {
+    font-size: 40px;
+}
+
+.font-size {
+    font-size: 23px;
+}
+
+.hero-img img {
+    margin-left: 80px;
+    width: 100%;
+
+}
+
+/*  hero section end  */
